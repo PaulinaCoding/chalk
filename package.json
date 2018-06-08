@@ -1,0 +1,14 @@
+{
+  "name": "chalk",
+  "version": "1.0.0",
+  "description": "This is exersice file",
+  "main": "index.js",
+  "scripts": {
+    "test": "testing"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
+}
